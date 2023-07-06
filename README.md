@@ -1,7 +1,7 @@
 ## Olá eu sou o Jonas de Almeida, desenvolvedor Front-End!
 
-💼 - Atualmente trabalho como Assistente Tributário<br>
-📚 - Aprendendo e aperfeiçoando React.js
+💼 - Atualmente trabalho como Analista Fiscal Júnior<br>
+📚 - Cursando Análise e Desenvolvimento de Sistemas & Estudando React.js
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaADev&show_icons=true&theme=radical)
 
