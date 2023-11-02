@@ -1,7 +1,6 @@
 ## Olá eu sou o Jonas de Almeida, desenvolvedor Front-End!
 
-💼 - Atualmente trabalho como Analista Fiscal Júnior<br>
-📚 - Cursando Análise e Desenvolvimento de Sistemas & Estudando React.js
+Me chamo Jonas, tenho 23 anos e sou apaixonado por tudo que envolva tecnologia. Iniciei meus estudos em 2021 e desde então venho evoluindo com o objetivo de me tornar um Desenvolvedor Front-end. Atualmente trabalho como Analista de Tributos e estou cursando Análise e Desenvolvimento de Sistemas. Tenho conhecimento sólido em HTML, CSS, JavaScript, estou estudando React.js e Node.js, e de vez em quando arrisco umas automatizações com Python (◕‿◕)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaADev&show_icons=true&theme=radical)
 
