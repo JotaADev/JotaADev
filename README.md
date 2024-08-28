@@ -1,6 +1,6 @@
 ## Bem vindo(a) ao meu perfil!
 
-Me chamo Jonas, tenho 24 anos e sou apaixonado por tecnologia! Trabalho a 6 anos como Analista de Tributos e estou iniciando minha transição de carreira. Iniciei minha graduação em Análise e Desenvolvimento de Sistemas em julho de 2023 e atualmente estou estudando para ser um desenvolvedor Front-End. Tenho conhecimentos sólidos em HTML, CSS, JavaScript, React.js e Node.js (◕‿◕)
+Me chamo Jonas, tenho 24 anos e sou apaixonado por tecnologia! Trabalho a 6 anos como Analista de Tributos e estou iniciando minha transição de carreira. Iniciei minha graduação em Análise e Desenvolvimento de Sistemas em julho de 2023 e atualmente estou estudando para ser um desenvolvedor Front-End. Tenho conhecimentos sólidos em HTML, CSS, JavaScript, React.js, TypeScript e Node.js (◕‿◕)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaADev&show_icons=true&theme=radical)
 
