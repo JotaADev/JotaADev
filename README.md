@@ -1,6 +1,7 @@
 ## Bem vindo(a) ao meu perfil!
 
-Me chamo Jonas, tenho 24 anos e sou apaixonado por tecnologia! Trabalho a 6 anos como Analista de Tributos e estou iniciando minha transição de carreira. Iniciei minha graduação em Análise e Desenvolvimento de Sistemas em julho de 2023 e atualmente estou estudando para ser um desenvolvedor Front-End. Tenho conhecimento em HTML, CSS, JavaScript, React.js, TypeScript e Node.js (◕‿◕)
+Me chamo Jonas, tenho 25 anos e sou apaixonado por tecnologia! Sou formado em Análise e Desenvolvimento de Sistemas e trabalho a 7 anos como Analista de Tributos.
+Tenho conhecimento em HTML, CSS, JavaScript, React.js, TypeScript, Node.js e Python (◕‿◕)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaADev&show_icons=true&theme=radical)
 
@@ -16,7 +17,6 @@ Me chamo Jonas, tenho 24 anos e sou apaixonado por tecnologia! Trabalho a 6 anos
   ##
  
 <div> 
-  <a href="https://instagram.com/jhowareis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jonasalmeidareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonas-almeida-reis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
