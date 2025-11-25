@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Me chamo Jonas, tenho 25 anos e sou apaixonado por tecnologia! Sou formado em Análise e Desenvolvimento de Sistemas e trabalho a 7 anos como Analista de Tributos. Tenho conhecimento em HTML, CSS, JavaScript, React.js, TypeScript, Node.js e Python (◕‿◕)</p>
+<img align="right" height="150" src="https://i.imgflip.com/ad7o6h.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/ad7o6h.gif"  />
+<p align="left">Me chamo Jonas, tenho 25 anos e sou apaixonado por tecnologia! Sou formado em Análise e Desenvolvimento de Sistemas e trabalho a 7 anos como Analista de Tributos. Tenho conhecimento em HTML, CSS, JavaScript, React.js, TypeScript, Node.js e Python (◕‿◕)</p>
 
 ###
 
@@ -37,20 +37,6 @@
   <a href="https://www.linkedin.com/in/jonas-almeida-06427a353" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JotaADev/JotaADev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JotaADev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=JotaADev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JotaADev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
